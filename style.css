@@ -41,7 +41,7 @@ img {
   display: flex;
   flex-direction: column;
   justify-content: center;
-  background-image: url(C:/Users/Wuro/Downloads/img/headerpic.png);
+  background-image: url(./img/headerpic.png);
   background-size: cover;
 }
 
